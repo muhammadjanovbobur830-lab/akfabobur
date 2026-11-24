@@ -1,0 +1,6 @@
+{
+  "name": "AKFA Windows Configurator",
+  "description": "Interactive 3D window and door configurator, live UZS pricing calculator, and ordering platform for AKFA profile systems.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
